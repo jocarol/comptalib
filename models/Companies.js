@@ -1,5 +1,5 @@
 const DataTypes = require('sequelize')
-const {Model} = require('seque  lize')
+const {Model} = require('sequelize')
 const Sequelize = require('sequelize')
 const db = require('../models/index.js')
 
